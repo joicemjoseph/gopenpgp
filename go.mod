@@ -1,10 +1,10 @@
 module github.com/moolekkari/gopenpgp/v2
 
-go 1.21
+go 1.20
 
 require (
 	github.com/ProtonMail/go-mime v0.0.0-20230322103455-7d82a3887f2f
-	github.com/moolekkari/go-crypto v0.0.0-20231227114913-01cb59d33562
+	github.com/moolekkari/go-crypto v0.0.0-20231227121923-456ba84b4295
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.7.0
 	golang.org/x/crypto v0.7.0

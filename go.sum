@@ -5,10 +5,10 @@ github.com/cloudflare/circl v1.3.3/go.mod h1:5XYMA4rFBvNIrhs50XuiBJ15vF2pZn4nnUK
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/moolekkari/go-crypto v0.0.0-20231227112550-83e5b1be5413 h1:43lcuFNrMf0TWda89aWuzvR0KwbErO84LcoJXOKtCsI=
-github.com/moolekkari/go-crypto v0.0.0-20231227112550-83e5b1be5413/go.mod h1:2Da/iTbshBZGWSR/WzL9M48jaB0cbkicbXVsZy+7QUM=
 github.com/moolekkari/go-crypto v0.0.0-20231227114913-01cb59d33562 h1:0G887bj1WNc61sqw4Xg9ndKgXZK3HRMATQfNqVXHk9c=
 github.com/moolekkari/go-crypto v0.0.0-20231227114913-01cb59d33562/go.mod h1:2Da/iTbshBZGWSR/WzL9M48jaB0cbkicbXVsZy+7QUM=
+github.com/moolekkari/go-crypto v0.0.0-20231227121923-456ba84b4295 h1:T+KiT6+uKfu58hutW/2k59tXmHOCdzb47Lk+OOhWwZ8=
+github.com/moolekkari/go-crypto v0.0.0-20231227121923-456ba84b4295/go.mod h1:6jrweCUaJ9530wH9BakpUUqTb5ye4wA3eRnNYy0yuv4=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
