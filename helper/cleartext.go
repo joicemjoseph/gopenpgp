@@ -1,8 +1,8 @@
 package helper
 
 import (
-	"github.com/ProtonMail/gopenpgp/v2/crypto"
-	"github.com/ProtonMail/gopenpgp/v2/internal"
+	"github.com/molekkari/gopenpgp/v2/crypto"
+	"github.com/molekkari/gopenpgp/v2/internal"
 	"github.com/pkg/errors"
 )
 

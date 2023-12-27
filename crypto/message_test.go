@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ProtonMail/go-crypto/openpgp/packet"
+	"github.com/moolekkari/go-crypto/openpgp/packet"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -6,9 +6,9 @@ import (
 	"io/ioutil"
 	"time"
 
-	"github.com/ProtonMail/go-crypto/openpgp"
-	"github.com/ProtonMail/go-crypto/openpgp/packet"
-	"github.com/ProtonMail/gopenpgp/v2/constants"
+	"github.com/molekkari/gopenpgp/v2/constants"
+	"github.com/moolekkari/go-crypto/openpgp"
+	"github.com/moolekkari/go-crypto/openpgp/packet"
 	"github.com/pkg/errors"
 )
 

@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ProtonMail/go-crypto/openpgp/ecdh"
-	"github.com/ProtonMail/go-crypto/openpgp/eddsa"
+	"github.com/moolekkari/go-crypto/openpgp/ecdh"
+	"github.com/moolekkari/go-crypto/openpgp/eddsa"
 
 	"github.com/stretchr/testify/assert"
 )

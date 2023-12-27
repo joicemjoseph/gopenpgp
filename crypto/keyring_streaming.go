@@ -5,7 +5,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/ProtonMail/go-crypto/openpgp"
+	"github.com/moolekkari/go-crypto/openpgp"
 	"github.com/pkg/errors"
 )
 

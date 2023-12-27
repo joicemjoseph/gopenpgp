@@ -10,11 +10,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ProtonMail/go-crypto/openpgp"
-	"github.com/ProtonMail/go-crypto/openpgp/packet"
+	"github.com/moolekkari/go-crypto/openpgp"
+	"github.com/moolekkari/go-crypto/openpgp/packet"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ProtonMail/gopenpgp/v2/constants"
+	"github.com/molekkari/gopenpgp/v2/constants"
 )
 
 const testMessage = "Hello world!"

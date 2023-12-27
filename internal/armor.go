@@ -3,7 +3,7 @@ package internal
 import (
 	"strings"
 
-	"github.com/ProtonMail/go-crypto/openpgp/armor"
+	"github.com/moolekkari/go-crypto/openpgp/armor"
 	"github.com/pkg/errors"
 )
 

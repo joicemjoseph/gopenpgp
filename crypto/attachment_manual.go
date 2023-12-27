@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ProtonMail/go-crypto/openpgp"
-	"github.com/ProtonMail/go-crypto/openpgp/packet"
+	"github.com/moolekkari/go-crypto/openpgp"
+	"github.com/moolekkari/go-crypto/openpgp/packet"
 	"github.com/pkg/errors"
 )
 

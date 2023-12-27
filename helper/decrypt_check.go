@@ -6,8 +6,8 @@ import (
 	"crypto/cipher"
 	"io"
 
-	"github.com/ProtonMail/go-crypto/openpgp/packet"
-	"github.com/ProtonMail/gopenpgp/v2/crypto"
+	"github.com/molekkari/gopenpgp/v2/crypto"
+	"github.com/moolekkari/go-crypto/openpgp/packet"
 	"github.com/pkg/errors"
 )
 

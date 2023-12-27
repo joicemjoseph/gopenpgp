@@ -10,11 +10,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ProtonMail/go-crypto/openpgp/clearsign"
-	"github.com/ProtonMail/go-crypto/openpgp/packet"
-	"github.com/ProtonMail/gopenpgp/v2/armor"
-	"github.com/ProtonMail/gopenpgp/v2/constants"
-	"github.com/ProtonMail/gopenpgp/v2/internal"
+	"github.com/molekkari/gopenpgp/v2/armor"
+	"github.com/molekkari/gopenpgp/v2/constants"
+	"github.com/molekkari/gopenpgp/v2/internal"
+	"github.com/moolekkari/go-crypto/openpgp/clearsign"
+	"github.com/moolekkari/go-crypto/openpgp/packet"
 	"github.com/pkg/errors"
 )
 

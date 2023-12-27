@@ -7,10 +7,10 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ProtonMail/go-crypto/openpgp/ecdh"
-	"github.com/ProtonMail/go-crypto/openpgp/eddsa"
+	"github.com/moolekkari/go-crypto/openpgp/ecdh"
+	"github.com/moolekkari/go-crypto/openpgp/eddsa"
 
-	"github.com/ProtonMail/gopenpgp/v2/constants"
+	"github.com/molekkari/gopenpgp/v2/constants"
 )
 
 var testSymmetricKey []byte

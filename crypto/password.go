@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/ProtonMail/go-crypto/openpgp"
-	pgpErrors "github.com/ProtonMail/go-crypto/openpgp/errors"
-	"github.com/ProtonMail/go-crypto/openpgp/packet"
+	"github.com/moolekkari/go-crypto/openpgp"
+	pgpErrors "github.com/moolekkari/go-crypto/openpgp/errors"
+	"github.com/moolekkari/go-crypto/openpgp/packet"
 	"github.com/pkg/errors"
 )
 

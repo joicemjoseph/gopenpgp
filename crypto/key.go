@@ -11,12 +11,12 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ProtonMail/gopenpgp/v2/armor"
-	"github.com/ProtonMail/gopenpgp/v2/constants"
+	"github.com/molekkari/gopenpgp/v2/armor"
+	"github.com/molekkari/gopenpgp/v2/constants"
 	"github.com/pkg/errors"
 
-	openpgp "github.com/ProtonMail/go-crypto/openpgp"
-	packet "github.com/ProtonMail/go-crypto/openpgp/packet"
+	openpgp "github.com/moolekkari/go-crypto/openpgp"
+	packet "github.com/moolekkari/go-crypto/openpgp/packet"
 )
 
 // Key contains a single private or public key.

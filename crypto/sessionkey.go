@@ -7,12 +7,12 @@ import (
 	"io"
 	"time"
 
-	"github.com/ProtonMail/gopenpgp/v2/constants"
+	"github.com/molekkari/gopenpgp/v2/constants"
 	"github.com/pkg/errors"
 
-	"github.com/ProtonMail/go-crypto/openpgp"
-	pgpErrors "github.com/ProtonMail/go-crypto/openpgp/errors"
-	"github.com/ProtonMail/go-crypto/openpgp/packet"
+	"github.com/moolekkari/go-crypto/openpgp"
+	pgpErrors "github.com/moolekkari/go-crypto/openpgp/errors"
+	"github.com/moolekkari/go-crypto/openpgp/packet"
 )
 
 // SessionKey stores a decrypted session key.
