@@ -7,8 +7,8 @@ import (
 	"mime"
 	"net/textproto"
 
-	"github.com/molekkari/gopenpgp/v2/internal"
 	pgpErrors "github.com/moolekkari/go-crypto/openpgp/errors"
+	"github.com/moolekkari/gopenpgp/v2/internal"
 
 	gomime "github.com/ProtonMail/go-mime"
 	"github.com/moolekkari/go-crypto/openpgp"

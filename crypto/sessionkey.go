@@ -7,7 +7,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/molekkari/gopenpgp/v2/constants"
+	"github.com/moolekkari/gopenpgp/v2/constants"
 	"github.com/pkg/errors"
 
 	"github.com/moolekkari/go-crypto/openpgp"

@@ -7,9 +7,9 @@ import (
 	"io"
 	"io/ioutil"
 
-	"github.com/molekkari/gopenpgp/v2/constants"
-	"github.com/molekkari/gopenpgp/v2/internal"
 	"github.com/moolekkari/go-crypto/openpgp/armor"
+	"github.com/moolekkari/gopenpgp/v2/constants"
+	"github.com/moolekkari/gopenpgp/v2/internal"
 	"github.com/pkg/errors"
 )
 

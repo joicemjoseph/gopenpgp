@@ -14,7 +14,7 @@ import (
 	"github.com/moolekkari/go-crypto/openpgp/packet"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/molekkari/gopenpgp/v2/constants"
+	"github.com/moolekkari/gopenpgp/v2/constants"
 )
 
 const testMessage = "Hello world!"

@@ -10,7 +10,7 @@ import (
 	"github.com/moolekkari/go-crypto/openpgp/ecdh"
 	"github.com/moolekkari/go-crypto/openpgp/eddsa"
 
-	"github.com/molekkari/gopenpgp/v2/constants"
+	"github.com/moolekkari/gopenpgp/v2/constants"
 )
 
 var testSymmetricKey []byte

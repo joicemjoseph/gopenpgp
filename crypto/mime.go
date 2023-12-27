@@ -8,9 +8,9 @@ import (
 	"strings"
 
 	gomime "github.com/ProtonMail/go-mime"
-	"github.com/molekkari/gopenpgp/v2/constants"
 	"github.com/moolekkari/go-crypto/openpgp"
 	"github.com/moolekkari/go-crypto/openpgp/packet"
+	"github.com/moolekkari/gopenpgp/v2/constants"
 	"github.com/pkg/errors"
 )
 

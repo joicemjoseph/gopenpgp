@@ -3,8 +3,8 @@ package helper
 import (
 	"testing"
 
-	"github.com/molekkari/gopenpgp/v2/constants"
-	"github.com/molekkari/gopenpgp/v2/crypto"
+	"github.com/moolekkari/gopenpgp/v2/constants"
+	"github.com/moolekkari/gopenpgp/v2/crypto"
 	"github.com/stretchr/testify/assert"
 )
 

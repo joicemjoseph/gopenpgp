@@ -10,11 +10,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/molekkari/gopenpgp/v2/armor"
-	"github.com/molekkari/gopenpgp/v2/constants"
-	"github.com/molekkari/gopenpgp/v2/internal"
 	"github.com/moolekkari/go-crypto/openpgp/clearsign"
 	"github.com/moolekkari/go-crypto/openpgp/packet"
+	"github.com/moolekkari/gopenpgp/v2/armor"
+	"github.com/moolekkari/gopenpgp/v2/constants"
+	"github.com/moolekkari/gopenpgp/v2/internal"
 	"github.com/pkg/errors"
 )
 

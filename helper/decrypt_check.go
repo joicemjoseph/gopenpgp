@@ -6,8 +6,8 @@ import (
 	"crypto/cipher"
 	"io"
 
-	"github.com/molekkari/gopenpgp/v2/crypto"
 	"github.com/moolekkari/go-crypto/openpgp/packet"
+	"github.com/moolekkari/gopenpgp/v2/crypto"
 	"github.com/pkg/errors"
 )
 

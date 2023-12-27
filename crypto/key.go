@@ -11,8 +11,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/molekkari/gopenpgp/v2/armor"
-	"github.com/molekkari/gopenpgp/v2/constants"
+	"github.com/moolekkari/gopenpgp/v2/armor"
+	"github.com/moolekkari/gopenpgp/v2/constants"
 	"github.com/pkg/errors"
 
 	openpgp "github.com/moolekkari/go-crypto/openpgp"

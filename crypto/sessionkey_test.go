@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/molekkari/gopenpgp/v2/constants"
+	"github.com/moolekkari/gopenpgp/v2/constants"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -5,7 +5,7 @@ import (
 	"hash"
 	"io"
 
-	"github.com/molekkari/gopenpgp/v2/crypto"
+	"github.com/moolekkari/gopenpgp/v2/crypto"
 	"github.com/pkg/errors"
 )
 

@@ -1,4 +1,4 @@
-module github.com/molekkari/gopenpgp/v2
+module github.com/moolekkari/gopenpgp/v2
 
 go 1.21
 

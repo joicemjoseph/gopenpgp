@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/molekkari/gopenpgp/v2/crypto"
+	"github.com/moolekkari/gopenpgp/v2/crypto"
 	"github.com/stretchr/testify/assert"
 )
 

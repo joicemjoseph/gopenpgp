@@ -13,8 +13,8 @@ import (
 	"github.com/moolekkari/go-crypto/openpgp/packet"
 	"github.com/pkg/errors"
 
-	"github.com/molekkari/gopenpgp/v2/constants"
-	"github.com/molekkari/gopenpgp/v2/internal"
+	"github.com/moolekkari/gopenpgp/v2/constants"
+	"github.com/moolekkari/gopenpgp/v2/internal"
 )
 
 var allowedHashes = []crypto.Hash{
